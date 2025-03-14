@@ -1,0 +1,320 @@
+Folder PATH listing for volume OS
+Volume serial number is 6678-7A38
+C:.
+¦   .gitignore
+¦   about.php
+¦   about_manager.php
+¦   allocated_rooms.php
+¦   allocate_room.php
+¦   application_form.php
+¦   contact.php
+¦   contact_manager.php
+¦   empty_rooms.php
+¦   error.php
+¦   home.php
+¦   home_manager.php
+¦   index.php
+¦   login-hostel_manager.php
+¦   message_hostel_manager.php
+¦   message_user.php
+¦   phpinfo.php
+¦   profile.php
+¦   projects.php
+¦   README.md
+¦   services.php
+¦   signup.php
+¦   single.php
+¦   structure.txt
+¦   test.php
+¦   vacate_rooms.php
+¦   
++---admin
+¦       admin_about.php
+¦       admin_contact.php
+¦       admin_home.php
+¦       admin_profile.php
+¦       admin_projects.php
+¦       admin_services.php
+¦       create_hm.php
+¦       manager_profile.php
+¦       students.php
+¦       
++---database
+¦       hostel_management_system_Application.sql
+¦       hostel_management_system_Hostel.sql
+¦       hostel_management_system_Hostel_Manager.sql
+¦       hostel_management_system_Message.sql
+¦       hostel_management_system_Room.sql
+¦       hostel_management_system_Student.sql
+¦       
++---Documentation
+¦       Presentation.pdf
+¦       User Manual.pdf
+¦       
++---dumping
+¦   ¦   profile.php
+¦   ¦   
+¦   +---web_profile
+¦       ¦   w3layouts-License.txt
+¦       ¦   
+¦       +---css
+¦       ¦       font-awesome.min.css
+¦       ¦       style.css
+¦       ¦       
+¦       +---fonts
+¦       ¦       fontawesome-webfont.eot
+¦       ¦       fontawesome-webfont.ttf
+¦       ¦       fontawesome-webfont.woff
+¦       ¦       fontawesome-webfont.woff2
+¦       ¦       FontAwesome.otf
+¦       ¦       glyphicons-halflings-regular.eot
+¦       ¦       glyphicons-halflings-regular.ttf
+¦       ¦       glyphicons-halflings-regular.woff
+¦       ¦       glyphicons-halflings-regular.woff2
+¦       ¦       
+¦       +---images
+¦               2.jpg
+¦               a.jpg
+¦               cover.jpg
+¦               cover3.jpg
+¦               cover4.jpg
+¦               t.jpg
+¦               t3.jpg
+¦               tt.png
+¦               ttuser.jpg
+¦               tuser.jpg
+¦               user.png
+¦               
++---includes
+¦       config.inc.php
+¦       hm_remove.php
+¦       hm_signup.php
+¦       login-hm.inc.php
+¦       login.inc.php
+¦       logout.inc.php
+¦       signup.inc.php
+¦       
++---templates
+¦   ¦   material_login_form_web_Free04-09-2018_262514557.zip
+¦   ¦   profile_subscribe_form-web_Free09-06-2017_1929730856.zip
+¦   ¦   
+¦   +---web
+¦   ¦   ¦   index.html
+¦   ¦   ¦   w3layouts-License.txt
+¦   ¦   ¦   
+¦   ¦   +---css
+¦   ¦   ¦       fontawesome-all.css
+¦   ¦   ¦       style.css
+¦   ¦   ¦       
+¦   ¦   +---images
+¦   ¦   ¦       cover4.jpg
+¦   ¦   ¦       
+¦   ¦   +---webfonts
+¦   ¦           fa-brands-400.eot
+¦   ¦           fa-brands-400.svg
+¦   ¦           fa-brands-400.ttf
+¦   ¦           fa-brands-400.woff
+¦   ¦           fa-brands-400.woff2
+¦   ¦           fa-regular-400.eot
+¦   ¦           fa-regular-400.svg
+¦   ¦           fa-regular-400.ttf
+¦   ¦           fa-regular-400.woff
+¦   ¦           fa-regular-400.woff2
+¦   ¦           fa-solid-900.eot
+¦   ¦           fa-solid-900.svg
+¦   ¦           fa-solid-900.ttf
+¦   ¦           fa-solid-900.woff
+¦   ¦           fa-solid-900.woff2
+¦   ¦           
+¦   +---web_profile
+¦   ¦   ¦   profile.php
+¦   ¦   ¦   w3layouts-License.txt
+¦   ¦   ¦   
+¦   ¦   +---css
+¦   ¦   ¦       font-awesome.min.css
+¦   ¦   ¦       smoothbox.css
+¦   ¦   ¦       style.css
+¦   ¦   ¦       
+¦   ¦   +---fonts
+¦   ¦   ¦       fontawesome-webfont.eot
+¦   ¦   ¦       fontawesome-webfont.svg
+¦   ¦   ¦       fontawesome-webfont.ttf
+¦   ¦   ¦       fontawesome-webfont.woff
+¦   ¦   ¦       fontawesome-webfont.woff2
+¦   ¦   ¦       FontAwesome.otf
+¦   ¦   ¦       
+¦   ¦   +---images
+¦   ¦   ¦       1.jpg
+¦   ¦   ¦       c.jpg
+¦   ¦   ¦       c1.jpg
+¦   ¦   ¦       c2.jpg
+¦   ¦   ¦       c3.jpg
+¦   ¦   ¦       c4.jpg
+¦   ¦   ¦       c5.jpg
+¦   ¦   ¦       c6.jpg
+¦   ¦   ¦       
+¦   ¦   +---js
+¦   ¦           jquery-2.1.3.min.js
+¦   ¦           sliding.form.js
+¦   ¦           smoothbox.jquery2.js
+¦   ¦           
+¦   +---web_profile1
+¦       ¦   profile.php
+¦       ¦   w3layouts-License.txt
+¦       ¦   
+¦       +---css
+¦       ¦       font-awesome.min.css
+¦       ¦       style.css
+¦       ¦       
+¦       +---fonts
+¦       ¦       fontawesome-webfont.eot
+¦       ¦       fontawesome-webfont.ttf
+¦       ¦       fontawesome-webfont.woff
+¦       ¦       fontawesome-webfont.woff2
+¦       ¦       FontAwesome.otf
+¦       ¦       glyphicons-halflings-regular.eot
+¦       ¦       glyphicons-halflings-regular.ttf
+¦       ¦       glyphicons-halflings-regular.woff
+¦       ¦       glyphicons-halflings-regular.woff2
+¦       ¦       
+¦       +---images
+¦               2.jpg
+¦               t3.jpg
+¦               
++---web
+¦   +---css
+¦   ¦       fontawesome-all.css
+¦   ¦       style.css
+¦   ¦       
+¦   +---images
+¦   ¦       a.jpg
+¦   ¦       cover.jpg
+¦   ¦       cover3.jpg
+¦   ¦       cover4.jpg
+¦   ¦       
+¦   +---webfonts
+¦           fa-brands-400.eot
+¦           fa-brands-400.svg
+¦           fa-brands-400.ttf
+¦           fa-brands-400.woff
+¦           fa-brands-400.woff2
+¦           fa-regular-400.eot
+¦           fa-regular-400.svg
+¦           fa-regular-400.ttf
+¦           fa-regular-400.woff
+¦           fa-regular-400.woff2
+¦           fa-solid-900.eot
+¦           fa-solid-900.svg
+¦           fa-solid-900.ttf
+¦           fa-solid-900.woff
+¦           fa-solid-900.woff2
+¦           
++---web_home
+¦   +---css_home
+¦   ¦   ¦   bootstrap.css
+¦   ¦   ¦   flexslider.css
+¦   ¦   ¦   fontawesome-all.css
+¦   ¦   ¦   ken-burns.css
+¦   ¦   ¦   slider.css
+¦   ¦   ¦   style.css
+¦   ¦   ¦   swipebox.css
+¦   ¦   ¦   
+¦   ¦   +---images
+¦   ¦           cd-icon-arrows.svg
+¦   ¦           
+¦   +---images
+¦   ¦       1.png
+¦   ¦       12.jpg
+¦   ¦       2.png
+¦   ¦       212.jpg
+¦   ¦       3.png
+¦   ¦       4.jpg
+¦   ¦       a1.jpg
+¦   ¦       a2.jpg
+¦   ¦       a3.jpg
+¦   ¦       a4.jpg
+¦   ¦       arr.png
+¦   ¦       arrows.png
+¦   ¦       cd-icon-arrows.svg
+¦   ¦       icons.svg
+¦   ¦       s1.webp
+¦   ¦       s2.webp
+¦   ¦       s3.webp
+¦   ¦       s4.webp
+¦   ¦       s5.webp
+¦   ¦       s6.webp
+¦   ¦       search-icon.png
+¦   ¦       t1.jpg
+¦   ¦       t2.jpg
+¦   ¦       t3.jpg
+¦   ¦       t4.jpg
+¦   ¦       
+¦   +---js
+¦   ¦       bootstrap.js
+¦   ¦       easing.js
+¦   ¦       jquery-2.2.3.min.js
+¦   ¦       jquery.countup.js
+¦   ¦       jquery.flexslider.js
+¦   ¦       jquery.swipebox.min.js
+¦   ¦       jquery.waypoints.min.js
+¦   ¦       main.js
+¦   ¦       move-top.js
+¦   ¦       SmoothScroll.min.js
+¦   ¦       snap.svg-min.js
+¦   ¦       
+¦   +---webfonts
+¦           fa-brands-400.eot
+¦           fa-brands-400.svg
+¦           fa-brands-400.ttf
+¦           fa-brands-400.woff
+¦           fa-brands-400.woff2
+¦           fa-regular-400.eot
+¦           fa-regular-400.svg
+¦           fa-regular-400.ttf
+¦           fa-regular-400.woff
+¦           fa-regular-400.woff2
+¦           fa-solid-900.eot
+¦           fa-solid-900.svg
+¦           fa-solid-900.ttf
+¦           fa-solid-900.woff
+¦           fa-solid-900.woff2
+¦           
++---web_profile
+    ¦   w3layouts-License.txt
+    ¦   
+    +---css
+    ¦       font-awesome.min.css
+    ¦       smoothbox.css
+    ¦       style.css
+    ¦       
+    +---fonts
+    ¦       fontawesome-webfont.eot
+    ¦       fontawesome-webfont.svg
+    ¦       fontawesome-webfont.ttf
+    ¦       fontawesome-webfont.woff
+    ¦       fontawesome-webfont.woff2
+    ¦       FontAwesome.otf
+    ¦       
+    +---images
+    ¦       1.jpg
+    ¦       3.png
+    ¦       a.jpg
+    ¦       c.png
+    ¦       c1.jpg
+    ¦       c2.jpg
+    ¦       c3.jpg
+    ¦       c4.jpg
+    ¦       c5.jpg
+    ¦       c6.jpg
+    ¦       cover.jpg
+    ¦       cover3.jpg
+    ¦       cover4.jpg
+    ¦       hostel.jpg
+    ¦       hostel.png
+    ¦       ss.jpg
+    ¦       
+    +---js
+            jquery-2.1.3.min.js
+            sliding.form.js
+            smoothbox.jquery2.js
+            
